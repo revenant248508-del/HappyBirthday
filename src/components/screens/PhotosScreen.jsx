@@ -17,8 +17,6 @@ export default function PhotosScreen({ onNext }) {
     "/images/2.jpeg",
     "/images/3.jpeg",
     "/images/4.jpeg",
-    "/images/5.jpeg",
-    "/images/6.jpeg",
   ]
 
   return (
