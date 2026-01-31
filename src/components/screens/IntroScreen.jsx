@@ -27,7 +27,7 @@ export default function IntroScreen({ onNext }) {
                         }}>
                         Few years ago!
                     </h1>
-                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU! A ittttuuuu sa surprise awaits...</p>
+                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU! A surprise awaits youuu!!...</p>
                 </div>
 
                 <div className="mt-8">
