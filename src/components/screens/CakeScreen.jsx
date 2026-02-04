@@ -46,6 +46,7 @@ export default function CakeScreen({ onNext, onDecorate }) {
           transition={{ duration: 1, ease: "easeOut", delay: 1.5 }}
         >
           Happy Birthday, Cutiepie!
+          Happy Birthday HANNN😘😘
         </motion.div>
       )}
 
