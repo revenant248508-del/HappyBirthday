@@ -32,7 +32,7 @@ export default function PhotosScreen({ onNext }) {
           Some Sweet Moments
         </motion.h2>
         <p className="text-sm text-rose-100/90 mt-1">
-  WALA man tay pics uyyy  <br />
+  WALA man tay pics uyyy 😓😓 <br />
   (Swipe the cards)
 </p>
       </div>
