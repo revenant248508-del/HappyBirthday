@@ -14,9 +14,10 @@ export default function PhotosScreen({ onNext }) {
 
   const photos = [
     "/images/1.jpeg",
-    "/images/2.jpeg",
-    "/images/3.jpeg",
-    "/images/4.jpeg",
+    "/images/2.jpg",
+    "/images/3.jpg",
+    "/images/4.jpg",
+    "/images/5.JPG",
   ]
 
   return (
